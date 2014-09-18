@@ -1,0 +1,4 @@
+#Zurbifying a Rails Store
+
+##Approach
+The goal of this assignment was to follow the Railscast episode that gave an overview of Foundations. This assignment took me a while as I got stuck a number of times. At first, I ran into an issue with the Foundation gem. I was trying different solutions and ended up redoing the app. Then I was stuck fro a couple hours with a problem where Rails couldn't find the foundations:install generator. I tried using an older version of Rails and this allowed me to use the generator. However, the Foundations layouts weren't working. I tried switching back to Rails 4 and somehow could find the generator. Once I fixed these issues, I was able to follow the Railscast fairly easily.
